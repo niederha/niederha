@@ -8,7 +8,7 @@ Hello stranger,
 
 💞️  I'm very much interested in making the world a better place, hence I'm eager to colaborate on humanitarian, environmental or medical projects
 
-📫  You can reach me on linked in https://www.linkedin.com/in/lo%C3%AFc-niederhauser-565690182/
+📫  You can reach me on [linked in](https://www.linkedin.com/in/lo%C3%AFc-niederhauser-565690182/)
 
 <!---
 niederha/niederha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
